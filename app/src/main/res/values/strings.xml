@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Explore screen</string>
+    <string name="explore">Explore</string>
+    <string name="item_description">Item Description</string>
+</resources>
